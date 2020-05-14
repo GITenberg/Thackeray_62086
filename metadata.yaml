@@ -1,0 +1,32 @@
+_repo: Thackeray_62086
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Melville, Lewis
+    birthdate: 1874
+    deathdate: 1932
+    gutenberg_agent_id: '3588'
+    url: http://www.gutenberg.org/2009/agents/3588
+    wikipedia: https://en.wikipedia.org/wiki/Lewis_Melville
+  - agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    - Chesterton, Gilbert Keith
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: https://en.wikipedia.org/wiki/G._K._Chesterton
+description: ''
+gutenberg_issued: '2020-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Thackeray
+url: http://www.gutenberg.org/ebooks/62086
